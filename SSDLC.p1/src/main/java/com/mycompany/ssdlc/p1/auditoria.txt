@@ -1,0 +1,23 @@
+20/01/2025 13:38:18 sistema: Se solventó un problema de integridad en el fichero usuarios.txt, se determinó que el cambio era intencionado y se sobreescribió la copia de seguridad
+20/01/2025 13:53:32 sistema: Se solventó un problema de integridad en el fichero usuarios.txt, se determinó que el cambio era intencionado y se sobreescribió la copia de seguridad
+20/01/2025 18:40:42 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se ha añadido el producto:Maiz;5€
+20/01/2025 18:40:47 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se listaron los productos
+20/01/2025 18:40:49 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se listaron los productos
+20/01/2025 18:41:10 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se ha añadido el producto:Setas;1
+20/01/2025 18:41:12 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se listaron los productos
+20/01/2025 18:41:16 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se listaron los productos
+20/01/2025 18:41:27 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se ha eliminado el producto:Maiz;5€
+20/01/2025 18:41:29 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se listaron los productos
+20/01/2025 18:41:30 Sara com.mycompany.ssdlc.p1.Admin@32a1bec0 Se listaron los productos
+20/01/2025 18:44:18 Sistema Se solventó un problema de integridad en el fichero productos.txt, se determinó que el cambio era intencionado y se sobreescribió la copia de seguridad
+20/01/2025 18:45:11 Sistema Se solventó un problema de integridad en el fichero productos.txt, se determinó que el cambio era intencionado y se sobreescribió la copia de seguridad
+20/01/2025 18:45:42 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se ha eliminado el producto:Setas;1
+20/01/2025 18:45:44 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se listaron los productos
+20/01/2025 18:45:53 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se listaron los productos
+20/01/2025 18:46:04 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se ha añadido el producto:Actimel;2
+20/01/2025 18:46:10 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se ha eliminado el producto:Maiz;5€
+20/01/2025 18:46:12 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se listaron los productos
+20/01/2025 18:46:30 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se eliminó el cliente: Sergio;Nogales;47012;600290264;
+20/01/2025 18:46:53 Sara com.mycompany.ssdlc.p1.Admin@726f3b58 Se creó el cliente: Pepe;Viyuela;123321;123321123;
+20/01/2025 20:12:00 Sistema Se solventó un problema de integridad en el fichero ventas.txt, se determinó que el cambio era intencionado y se sobreescribió la copia de seguridad
+20/01/2025 20:14:19 Sistema 
